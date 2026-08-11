@@ -7,7 +7,7 @@ Curso: Curso de Ciência da Computação.
 Nomes aluno e orientador: Rian Beskow Friedrich e Sylvio André Garcia Vieira. 
 
 Link do trabalho: 
-("https://tcconline.lapinf.ufn.edu.br/media/midias/anamnese_GA4moZU.pdf"). 
+https://tcconline.lapinf.ufn.edu.br/media/midias/anamnese_GA4moZU.pdf
 
 Descrição: 
 O artigo apresenta o desenvolvimento de uma ferramenta Web para coleta de 
