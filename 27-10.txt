@@ -1,0 +1,24 @@
+Anotações 27/10 - Aula 14
+-> 20:45
+
+LLM = Large Language Model
+
+GPT = Generative Pre-trained Transformer
+
+1. tokenzinação
+
+
+2. embeddings
+
+
+3. transformer processa o contexto (cérebro da LLM)
+  analisa os tokens
+  self attention
+  multihead attention
+
+  temperature: cola o grau de aletoriedade na seleção de tokens
+  TopK
+  motodo greedy
+
+
+# tansorflow
